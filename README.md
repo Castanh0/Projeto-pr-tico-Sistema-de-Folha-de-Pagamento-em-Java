@@ -1,1 +1,1 @@
-# Projeto-pr-tico-Sistema-de-Folha-de-Pagamento-em-Java
+# Projeto-pratico-Sistema-de-Folha-de-Pagamento-em-Java
