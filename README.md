@@ -10,11 +10,11 @@ O projeto simula um sistema simples de folha de pagamento capaz de cadastrar dif
 
 O objetivo do sistema é permitir:
 
-✅ Cadastro de funcionários
-✅ Cálculo de salário final
-✅ Geração da folha de pagamento
-✅ Aplicação de comissão e bônus de produtividade
-✅ Armazenamento de funcionários em lista dinâmica
+-✅ Cadastro de funcionários
+-✅ Cálculo de salário final
+-✅ Geração da folha de pagamento
+-✅ Aplicação de comissão e bônus de produtividade
+-✅ Armazenamento de funcionários em lista dinâmica
 
 Além disso, o projeto foi criado para praticar conceitos fundamentais da linguagem Java.
 
@@ -22,19 +22,20 @@ Além disso, o projeto foi criado para praticar conceitos fundamentais da lingua
 
 Durante o desenvolvimento foram utilizados os seguintes conceitos:
 
-📌 Programação Orientada a Objetos (POO)
-📌 Herança
-📌 Polimorfismo
-📌 Encapsulamento
-📌 Sobrescrita de métodos (@Override)
-📌 Construtores
-📌 Métodos
-📌 ArrayList
-📌 Scanner
-📌 Estruturas condicionais (switch, if)
-📌 Estruturas de repetição (do-while, for-each)
-📌 Constantes (static final)
-📌 Validação de dados
+-📌 Programação Orientada a Objetos (POO)
+-📌 Herança
+-📌 Polimorfismo
+-📌 Encapsulamento
+-📌 Sobrescrita de métodos (@Override)
+-📌 Construtores
+-📌 Métodos
+-📌 ArrayList
+-📌 Scanner
+-📌 Estruturas condicionais (switch, if)
+-📌 Estruturas de repetição (do-while, for-each)
+-📌 Constantes (static final)
+-📌 Validação de dados
+
 📂 Estrutura do Projeto
 src/
 │
@@ -48,6 +49,8 @@ src/
 │
 └── service/
 └── FolhaDePagamento.java
+
+
 ⚙️ Funcionamento do Sistema
 
 Ao executar o programa, um menu é exibido no terminal:
